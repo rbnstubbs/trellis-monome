@@ -3,7 +3,7 @@ trellis-monome
 
 A monome clone using the Adafruit Trellis keypads 
 
-CC BY-SA 2014 Robin Stubbs   robin.stubbs@uleth.ca
+CC BY-SA 2014 Robin Stubbs - robin.stubbs@uleth.ca
 
 Click "Download ZIP" to get all files ------------------->
 
