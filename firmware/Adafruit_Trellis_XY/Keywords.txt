@@ -1,0 +1,26 @@
+    # Syntax Coloring Map For Adafruit_Trellis_XY
+    #######################################
+
+    #######################################
+    # Datatypes (KEYWORD1)
+    #######################################
+    TileOffsets   KEYWORD1
+    xOffsets   KEYWORD1
+    yOffsets   KEYWORD1
+    trellisIDs   KEYWORD1
+    XYTrellisIDs   KEYWORD1
+
+    #######################################
+    # Methods and Functions (KEYWORD2)
+    #######################################
+
+    TrellisToXY   KEYWORD2
+    XYToTrellis   KEYWORD2
+
+    #######################################
+    # Instances (KEYWORD2)
+    #######################################
+
+    #######################################
+    Constants (LITERAL1)
+    #######################################
