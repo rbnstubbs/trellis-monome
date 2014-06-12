@@ -32,3 +32,5 @@ INSTRUCTIONS:
 4. Open trellis-monome test.maxpatch and press your keys. Watch the buttons light up! If the right buttons are not lighting check the cable orientation in monomecereal.maxpat
 
 5. You are done! download apps for the monome at http://monome.org/docs/app 
+
+OPTIONAL: use the .stl files in the 3D folder and 3D print yourself an enclosure! 
