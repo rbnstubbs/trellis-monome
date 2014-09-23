@@ -1,6 +1,6 @@
 trellis-monome
 ==============
-
+NOTE: Code is still not optimized for row/col commands! WIP
 A monome clone using the Adafruit Trellis keypads
 
 This project was largely based on the Arduinome by Owen Vallis & 
